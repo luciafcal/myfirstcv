@@ -1,4 +1,11 @@
 /*My own styles for CV*/
+
+.col-md-4 li {
+  margin-bottom: 3%;
+  list-style-type:circle;
+  
+}
+
 .title-color {
   color: #1c0857bb;
 }
