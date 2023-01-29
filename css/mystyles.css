@@ -1,5 +1,22 @@
 /*My own styles for CV*/
+.timeline {
+  margin-bottom: 5%;
 
+  border-left: 2px solid #E6E9ED;
+  padding: 1rem 0; 
+
+}
+.card-education {
+ /* padding-top:0%;
+  padding-bottom: 0%;
+  border-left-color: green;*/
+}
+.border-experience {
+  border-left-color:#37BC9B;
+}
+.border-education {
+  border-left-color: #4A89DC;
+}
 .cover-header {
   background-color: #1c0857bb;
   border-radius: 10px 10px 0 0;
@@ -16,7 +33,7 @@ header {
     padding-bottom: 2%;
 }
 .about {
-    padding-top: 5%;
+    padding-top: 7%;
     background-color: white;
     padding-left: 5%;
     padding-right: 1%;
@@ -32,13 +49,7 @@ header {
     padding-right: 5%;
     padding-bottom: 1%;
 }
-.timeline {
-    margin-bottom: 5%;
 
-    border-left: 2px solid #E6E9ED;
-    padding: 1rem 0; 
-
-}
 
 .timeline-card {
   position: relative;
